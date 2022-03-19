@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://media.discordapp.net/attachments/953629566843387917/954110717810835486/Desktop_-_1.png?width=932&height=663");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+h2 {
+  margin-top: 8%;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+input {
+  padding: 10px;
+  width: 30%;
+  margin: 10px;
+}
+
+button {
+  border: none;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  padding: 10px;
+  background-color: #e50914;
+  cursor: pointer;
+}
+
+
+
+.tela{
+flex-direction:column
+}
+p {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+ }
+
+.tela img {
+  margin: 10px 10px;
+  max-height: 250px;
+}
+
